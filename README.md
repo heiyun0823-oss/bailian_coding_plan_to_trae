@@ -1,6 +1,6 @@
 # Nginx AI Proxy
 
-本项目是一个基于 Nginx 的反向代理服务，用于将 OpenAI API 请求转发到多个国内 AI 服务。
+本项目是一个基于 Nginx 的反向代理服务，用于将 OpenAI API 请求转发到阿里云百炼。
 
 ## 项目作用
 
